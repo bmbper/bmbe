@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/bmbe/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bmbe_arch/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bmbe_blueprint/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bmbe_board/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bmbe_driver/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bmbe_net/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bmbe_sensor/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bmbe_app/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bmbe_app_car/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bmbe_app_fly/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bmbe_app_led/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bmbe_mcu/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bmbe_mcu_arduino/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bmbe_mcu_rapsi/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

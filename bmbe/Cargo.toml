@@ -1,0 +1,7 @@
+[package]
+name="bmbe"
+version="0.1.0"
+edition="2021"
+
+[dependencies]
+bmbe_driver = {path="../bmbe_driver"}

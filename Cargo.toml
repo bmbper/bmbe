@@ -1,0 +1,17 @@
+[workspace]
+members=[
+    "bmbe",
+    "bmbe_app",
+    "bmbe_app_car",
+    "bmbe_app_fly",
+    "bmbe_app_led",
+    "bmbe_driver",
+    "bmbe_arch",
+    "bmbe_board",
+    "bmbe_net",
+    "bmbe_sensor",
+    "bmbe_blueprint",
+    "bmbe_mcu",
+    "bmbe_mcu_arduino",
+    "bmbe_mcu_rapsi"
+]
